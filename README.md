@@ -41,7 +41,7 @@ The screenshot showcases a snippet of the scripting involved in building and man
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/cinema-booking-system.git
+   git clone https://github.com/sarthaklambaa/Cinema-Booking-System-Backend.git
    ```
 
 2. Import the provided SQL script into your MySQL database.
