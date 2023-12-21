@@ -48,6 +48,9 @@ The screenshot showcases a snippet of the scripting involved in building and man
 
 3. Explore and modify the database to suit your specific cinema's needs.
 
-Feel free to reach out if you have any questions or suggestions for improvement!
+## Connect with me
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sarthaklambaa/). <br>
+For any inquiries or suggestions, you can reach out to me via email: samlamba29@gmail.com.
 
-**Happy Cinema Booking!**
+I welcome your feedback and contributions to enhance this Cinema Booking System.<br>
+Happy coding!!
